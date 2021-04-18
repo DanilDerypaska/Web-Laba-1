@@ -5,3 +5,5 @@
 вимоги:
 Всі теги заголовків повинні бути логічно розставлені.
 У тексті повинні бути посилання і якірні посилання.
+<h1>Github Pages</h1>
+<a href="https://danilderypaska.github.io/Web-Laba-1/">https://danilderypaska.github.io/Web-Laba-1/</a>
